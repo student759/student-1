@@ -1,0 +1,20 @@
+#myVideo {
+    position:sticky;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+ 
+.f header{
+    position: fixed;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    color: azure;
+  }
